@@ -1,0 +1,13 @@
+$color:green;
+$size1: 14px;
+$size2: 18px;
+
+ul{
+    font-size: $size1;
+    color: $color;
+}
+
+ol{
+    font-size: $size1+$size2;
+    color: $color;
+}
